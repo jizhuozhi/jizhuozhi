@@ -3,7 +3,7 @@
 </a>
 
 ### Profession
-API Gateway, Cloud Native, Service Mesh, Load Balancing, Rate Limiting
+API Gateway, Service Mesh, Load Balancing, Rate Limiting
 
 ### Personal hobbies
 Reading, Cooking
