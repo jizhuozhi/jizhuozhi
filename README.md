@@ -3,7 +3,7 @@
 </a>
 
 ### Profession
-API Gateway, Service Mesh, Load Balancing, Rate Limiting
+API Gateway, Service Mesh, Load Balancing, Rate Limiting, Performance optimization
 
 ### Personal hobbies
 Reading, Cooking
