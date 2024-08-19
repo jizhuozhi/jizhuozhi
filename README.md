@@ -8,4 +8,4 @@ API Gateway, Service Mesh, Load Balancing, Rate Limiting, Performance optimizati
 ### Personal hobbies
 Reading, Cooking
 
-I'm tired of developing in Go, I still prefer Java
+I'm tired of developing in Go, I'm preferring Rust&Java now
