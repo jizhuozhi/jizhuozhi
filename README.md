@@ -1,4 +1,4 @@
-<a href="https://github.com/Mr-Linus/Mr-Linus/blob/master/README.md">
+<a href="https://github.com/jizhuozhi/jizhuozhi/blob/master/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jizhuozhi&show_icons=true&count_private=true" />
 </a>
 
@@ -9,3 +9,7 @@ API Gateway, Service Mesh, Load Balancing, Rate Limiting, Performance optimizati
 Reading, Cooking
 
 I'm tired of developing in Go, I'm preferring Rust&Java now
+
+<a href="https://github.com/jizhuozhi/jizhuozhi/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jizhuozhi&layout=compact" />
+</a>
